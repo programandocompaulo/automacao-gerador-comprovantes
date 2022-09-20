@@ -1,7 +1,7 @@
 # Automação para Gerador de Comprovantes
 Este projeto tem como objetivo reduzir o tempo gasto na hora de criar recibos e contratos feitos de forma recorrente.
 
-### Instalação
+## Instalação
 Para executar o código da automação é necessário ter instalado no ambiente de programação as bibliotecas:
 1. fpdf2
 2. pandas
